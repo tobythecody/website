@@ -1,0 +1,21 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_552d7807 { vertical-align: top; position:relative; display: inline-block; float:left; width:100%; min-height:864px; background-color:#29B2F4; background: linear-gradient(to bottom, #6AB600, #29B2F4);  }
+#container_552d7807_padding { margin: 10px; display: block;  }
+#text_3fd19a42 { position:absolute; left:33%; top:1%; width:467px; height:71px; background:none;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:44pt; font-family:'Minecrafter Alt'; color:#000000;  }
+#img_6f123cbb { position:absolute; left:2%; top:18%; width:20%; background:none; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235); height:auto;  }
+#text_1f6374ba { position:absolute; left:26%; top:19%; width:208px; height:268px; background:none;  }
+.textstyle4 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#text_289b6f13 { position:absolute; left:44%; top:18%; width:212px; height:372px; background:none;  }
+#youtube_22e4a421 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:115%; height:170px; background-color:#D1D1D1; border: 1px solid #A0A0A0; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235);  }
+.textstyle5 { font-size:6pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#img_27ce7d7c { position:absolute; left:3%; top:72%; width:29%; background:none; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235); height:auto;  }
+#text_6272362e { position:absolute; left:34%; top:70%; width:545px; height:172px; background:none;  }
+#img_325f9d76 { position:absolute; left:67%; top:14%; width:30%; background:none; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235); height:auto;  }
+#text_68dc096 { position:absolute; left:67%; top:40%; width:255px; height:305px; background:none;  }
